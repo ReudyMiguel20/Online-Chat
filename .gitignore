@@ -1,0 +1,17 @@
+
+build/classes/java/main/chat/Main.class
+build/classes/java/test/MainTest.class
+build/reports/tests/test/classes/MainTest.html
+build/reports/tests/test/css/base-style.css
+build/reports/tests/test/css/style.css
+build/reports/tests/test/index.html
+build/reports/tests/test/js/report.js
+build/reports/tests/test/packages/default-package.html
+build/test-results/test/binary/output.bin
+build/test-results/test/binary/output.bin.idx
+build/test-results/test/binary/results.bin
+build/test-results/test/TEST-MainTest.xml
+build/tmp/compileJava/previous-compilation-data.bin
+build/tmp/compileTestJava/previous-compilation-data.bin
+build/tmp/test/jar_extract_12681571618051705552_tmp
+out/production/classes/chat/Main.class
